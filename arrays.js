@@ -10,7 +10,7 @@ function createGroceries() {
   ];
   return groceries;
 }
-
+//hi
 // Step 2:
 // Write a getSecondGroceryItem function that returns the second grocery item from `groceries` argument
 function getSecondGroceryItem(groceries) {
